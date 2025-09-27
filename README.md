@@ -23,6 +23,8 @@ This repository contains community-entered, structured JSON data and a small sub
 - `skill1/2/3EE` - Equipment Enhancement arrays (example: it's possible skill 3 has 2 EEs associated to it)
 
 **Base Stats:**
+Please note that stats are increased by any passive skill effects, skill up effects and specialty change skill trees.
+
 - `health`, `attack`, `defense`, `speed` - Base stat values as strings
 - `dual` - Dual attack chance percentage
 - `crit` - Critical hit chance percentage
@@ -36,6 +38,14 @@ This repository contains community-entered, structured JSON data and a small sub
   - Order of positions is always l (left) t (top) r (right) b (bottom)
 - `selfImprint` - Self-imprint bonus (format: "stat,value")
 - `statEE` - Exclusive Equipment stat (format: "stat,value")
+
+### history-heroes.json
+
+**Structure:** Identical to heroes.json but contains archived versions of heroes before balance changes. Used by the to track how heroes have changed over time.
+
+Can have multiple versions of the same hero. The key is `expiredOn` is the date of the balance patch. 
+
+Exclusive equipments being added to a hero are considered as balance patch events.
 
 ### artifacts.json
 
@@ -77,10 +87,10 @@ Older exclusive equipments worth adding:
     - Fire Hwa 2024-09-26
     - Summer Iseria 2024-09-26
 
-### history-heroes.json
+### Specialty Changes
 
-**Structure:** Identical to heroes.json but contains archived versions of heroes before balance changes. Used by the to track how heroes have changed over time.
+Specialty Changes are a different beast. We want to account for all RUNE effects in the hero's skills. This is done by copying that data into the affected skill after a "Skill Tree: " point. For passive effects that are unrelated to any skills, those are copied into Skill2, even if that skill is not a passive skill. 
 
-Can have multiple versions of the same hero. The key is `expiredOn` is the date of the balance patch. 
+Example for Commander Lorina:
+"skill2": "Increases Effect Resistance by 50%. Increases Attack by 15.0% each time the caster attacks an enemy. Effect can only stack up to 5 times. Skill Tree: When Effect Resistance is 200% or more, damage suffered in one attack does not exceed 35% of max Health when attacked."
 
-Exclusive equipments being added to a hero are considered as balance patch events.
