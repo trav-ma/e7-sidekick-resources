@@ -41,7 +41,7 @@ Please note that stats are increased by any passive skill effects, skill up effe
 
 ### history-heroes.json
 
-**Structure:** Identical to heroes.json but contains archived versions of heroes before balance changes. Used by the to track how heroes have changed over time.
+**Structure:** Identical to heroes.json but contains archived versions of heroes before balance changes. Used to track how heroes have changed over time.
 
 Can have multiple versions of the same hero. The key is `expiredOn` is the date of the balance patch. 
 
