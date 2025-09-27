@@ -1,0 +1,192 @@
+[
+  {
+    "patchDate": "2024-09-12",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Judge Kise" },
+      { "type": "Hero", "stars": "5", "name": "Lionheart Cermia" },
+      { "type": "Hero", "stars": "5", "name": "Abigail" },
+      { "type": "Hero", "stars": "5", "name": "Alencia" },
+      { "type": "Hero", "stars": "4", "name": "Shooting Star Achates" },
+      { "type": "Artifact", "stars": "5", "name": "Otherworldly Machinery" },
+      { "type": "Artifact", "stars": "5", "name": "Fan of Light and Dark" }
+    ]
+  },
+  {
+    "patchDate": "2024-09-26",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Hwayoung" },
+      { "type": "Hero", "stars": "5", "name": "Summertime Iseria" }
+    ]
+  },
+  {
+    "patchDate": "2024-10-24",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Ruele of Light" },
+      { "type": "Hero", "stars": "5", "name": "Silver Blade Aramintha" },
+      { "type": "Hero", "stars": "5", "name": "Last Rider Krau" },
+      { "type": "Hero", "stars": "5", "name": "Commander Pavel" },
+      { "type": "Hero", "stars": "5", "name": "Designer Lilibet" },
+      { "type": "Hero", "stars": "5", "name": "Twisted Eidolon Kayron" },
+      { "type": "Hero", "stars": "5", "name": "Melissa" },
+      { "type": "Hero", "stars": "5", "name": "Sez" },
+      { "type": "Hero", "stars": "5", "name": "Specimen Sez" },
+      { "type": "Hero", "stars": "5", "name": "Elena" },
+      { "type": "Hero", "stars": "5", "name": "Mort" },
+      { "type": "Hero", "stars": "5", "name": "Yulha" },
+      { "type": "Hero", "stars": "5", "name": "Blooming Lidica" },
+      { "type": "Hero", "stars": "4", "name": "Auxiliary Lots" },
+      { "type": "Hero", "stars": "4", "name": "Peacemaker Furious" },
+      { "type": "Hero", "stars": "4", "name": "Veronica" },
+      { "type": "Hero", "stars": "4", "name": "Armin" },
+      { "type": "Artifact", "stars": "5", "name": "Cruel Mischief" },
+      { "type": "Artifact", "stars": "5", "name": "Rhianna & Luciella" },
+      { "type": "Artifact", "stars": "5", "name": "Pure White Trust" },
+      { "type": "Artifact", "stars": "5", "name": "Hostess of the Banquet" }
+    ]
+  },
+  {
+    "patchDate": "2024-11-21",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Hellion Lua" },
+      { "type": "Hero", "stars": "5", "name": "Immortal Wukong" },
+      { "type": "Hero", "stars": "5", "name": "Fairytale Tenebria" }
+    ]
+  },
+  {
+    "patchDate": "2024-12-19",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Closer Charles" },
+      { "type": "Hero", "stars": "5", "name": "Archdemon's Shadow" },
+      { "type": "Hero", "stars": "5", "name": "Eligos" },
+      { "type": "Hero", "stars": "5", "name": "Chloe" },
+      { "type": "Hero", "stars": "5", "name": "Yufine" },
+      { "type": "Hero", "stars": "4", "name": "Sinful Angelica" },
+      { "type": "Artifact", "stars": "5", "name": "Sigurd Scythe" },
+      { "type": "Artifact", "stars": "5", "name": "An Offer You Can't Refuse" }
+    ]
+  },
+  {
+    "patchDate": "2025-01-16",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Urban Shadow Choux" },
+      { "type": "Hero", "stars": "5", "name": "Blooming Lidica" },
+      { "type": "Hero", "stars": "5", "name": "Sez" }
+    ]
+  },
+  {
+    "patchDate": "2025-02-13",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Remnant Violet" },
+      { "type": "Hero", "stars": "5", "name": "Lilias" },
+      { "type": "Hero", "stars": "5", "name": "Diene" },
+      { "type": "Hero", "stars": "5", "name": "Krau" },
+      { "type": "Hero", "stars": "5", "name": "Ludwig" },
+      { "type": "Hero", "stars": "3", "name": "Ras" },
+      { "type": "Hero", "stars": "3", "name": "Adventurer Ras" },
+      { "type": "Artifact", "stars": "5", "name": "Wings of Light and Shadow" },
+      { "type": "Artifact", "stars": "5", "name": "Uberius's Tooth" }
+    ]
+  },
+  {
+    "patchDate": "2025-03-13",
+    "entries": [
+      { "type": "Hero", "stars": "4", "name": "Veronica" },
+      { "type": "Hero", "stars": "4", "name": "Infinite Horizon Achates" }
+    ]
+  },
+  {
+    "patchDate": "2025-04-10",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Martial Artist Ken" },
+      { "type": "Hero", "stars": "5", "name": "Fallen Cecilia" },
+      { "type": "Hero", "stars": "5", "name": "Spirit Eye Celine" },
+      { "type": "Hero", "stars": "5", "name": "Sylvan Sage Vivian" },
+      { "type": "Hero", "stars": "5", "name": "Dragon King Sharun" },
+      { "type": "Hero", "stars": "5", "name": "Lidica" },
+      { "type": "Hero", "stars": "5", "name": "Kayron" },
+      { "type": "Hero", "stars": "5", "name": "Seaside Bellona" },
+      { "type": "Hero", "stars": "5", "name": "Lethe" },
+      { "type": "Hero", "stars": "5", "name": "Destina" },
+      { "type": "Hero", "stars": "5", "name": "Landy" },
+      { "type": "Hero", "stars": "4", "name": "Watcher Schuri" },
+      { "type": "Artifact", "stars": "5", "name": "Reingar's Special Drink" },
+      { "type": "Artifact", "stars": "5", "name": "Wall of Order" },
+      { "type": "Artifact", "stars": "5", "name": "Fairy Tale for a Nightmare" }
+    ]
+  },
+  {
+    "patchDate": "2025-05-08",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Fenris" },
+      { "type": "Hero", "stars": "4", "name": "New Kid Adin" }
+    ]
+  },
+  {
+    "patchDate": "2025-06-05",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Fenris" },
+      { "type": "Hero", "stars": "5", "name": "Desert Jewel Basar" },
+      { "type": "Hero", "stars": "5", "name": "Straze" },
+      { "type": "Hero", "stars": "5", "name": "Holiday Yufine" },
+      { "type": "Hero", "stars": "5", "name": "Tywin" },
+      { "type": "Hero", "stars": "5", "name": "Charles" },
+      { "type": "Hero", "stars": "4", "name": "General Purrgis" },
+      { "type": "Hero", "stars": "4", "name": "Assassin Cartuja" },
+      { "type": "Artifact", "stars": "5", "name": "Indestructible Gaiters" },
+      { "type": "Artifact", "stars": "5", "name": "Glo-Wings 21" }
+    ]
+  },
+  {
+    "patchDate": "2025-07-03",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Amid" },
+      { "type": "Hero", "stars": "4", "name": "Wandering Prince Cidd" }
+    ]
+  },
+  {
+    "patchDate": "2025-08-06",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Specimen Sez" },
+      { "type": "Hero", "stars": "5", "name": "Sage Baal & Sezan" },
+      { "type": "Hero", "stars": "5", "name": "Conqueror Lilias" },
+      { "type": "Hero", "stars": "5", "name": "Lionheart Cermia" },
+      { "type": "Hero", "stars": "5", "name": "Commander Pavel" },
+      { "type": "Hero", "stars": "5", "name": "Twisted Eidolon Kayron" },
+      { "type": "Hero", "stars": "5", "name": "Top Model Luluca" },
+      { "type": "Hero", "stars": "5", "name": "Festive Eda" },
+      { "type": "Hero", "stars": "5", "name": "Flan" },
+      { "type": "Hero", "stars": "5", "name": "Summer Break Charlotte" },
+      { "type": "Hero", "stars": "5", "name": "Mui" },
+      { "type": "Hero", "stars": "5", "name": "Lilibet" },
+      { "type": "Hero", "stars": "5", "name": "Sharun" },
+      { "type": "Hero", "stars": "5", "name": "Mediator Kawerik" },
+      { "type": "Hero", "stars": "4", "name": "Challenger Dominiel" },
+      { "type": "Hero", "stars": "4", "name": "Inferno Khawazu" }
+    ]
+  },
+  {
+    "patchDate": "2025-08-28",
+    "entries": [
+      { "type": "Hero", "stars": "4", "name": "Crimson Armin" },
+      { "type": "Hero", "stars": "5", "name": "Yulha" }
+    ]
+  },
+  {
+    "patchDate": "2025-09-25",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Ruele of Light" },
+      { "type": "Hero", "stars": "5", "name": "Maid Chloe" },
+      { "type": "Hero", "stars": "5", "name": "Little Queen Charlotte" },
+      { "type": "Hero", "stars": "5", "name": "Operator Sigret" },
+      { "type": "Hero", "stars": "5", "name": "Fumyr" },
+      { "type": "Hero", "stars": "5", "name": "Command Model Laika" },
+      { "type": "Hero", "stars": "4", "name": "Tempest Surin" },
+      { "type": "Hero", "stars": "3", "name": "Commander Lorina" },
+      { "type": "Hero", "stars": "3", "name": "Researcher Carrot" },
+      { "type": "Hero", "stars": "3", "name": "Mercenary Helga" },
+      { "type": "Hero", "stars": "3", "name": "Silvertide Christy" },
+      { "type": "Artifact", "stars": "5", "name": "Draco Plate" },
+      { "type": "Artifact", "stars": "5", "name": "Unfading Memories" }
+    ]
+  }
+]

@@ -1,0 +1,914 @@
+[
+  {
+    "iconUrl": "buffs/multilayer_barrier.png",
+    "name": "Multilayer Barrier (Undispellable)",
+    "description": "Increases Hit Chance by 50% and is unaffected by debuffs and some harmful effects.",
+    "type": "buff",
+    "id": "multilayer_barrier",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/phantom_sword.png",
+    "name": "Phantom Sword (Unique Effect)",
+    "description": "When attacking, if the target is a Hero, ignores damage reduction and damage sharing effects, and when defeating an enemy, Phantom Sword changes into Neo Phantom Sword.",
+    "type": "buff",
+    "id": "phantom_sword",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/neo_phantom_sword.png",
+    "name": "Neo Phantom Sword (Unique Effect)",
+    "description": "When attacking, if the target is a Hero, ignores damage reduction and damage sharing effects, and increases damage dealt proportional to the target's max Health. Dispelled after attacking.",
+    "type": "buff",
+    "id": "neo_phantom_sword",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_effectiveness.png",
+    "name": "Increase Effectiveness",
+    "description": "Increases Effectiveness by 50%.",
+    "type": "buff",
+    "id": "increase_effectiveness",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/deify.png",
+    "name": "Deify (Undispellable)",
+    "description": "When attacking, increases Critical Hit Chance by 50%, and when attacked, decreases damage suffered by 50%. When more than one damage reduction effect is granted, only the strongest effect is applied.",
+    "type": "buff",
+    "id": "deify",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/exploiting_weak_points.png",
+    "name": "Exploiting Weak Points",
+    "description": "When attacking, increases damage dealt by 20%. After attacking, this effect is dispelled.",
+    "type": "buff",
+    "id": "exploiting_weak_points",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_attack.png",
+    "name": "Increase Attack",
+    "description": "Increases Attack by 50%.",
+    "type": "buff",
+    "id": "increase_attack",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/increase_attack_greater.png",
+    "name": "Increase Attack (Greater)",
+    "description": "Increases Attack by 75%.",
+    "type": "buff",
+    "id": "increase_attack_greater",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/revive.png",
+    "name": "Revive",
+    "description": "Upon receiving lethal damage, revives with 30% of max Health.",
+    "type": "buff",
+    "id": "revive",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/blood_aura.png",
+    "name": "Blood Aura (Undispellable)",
+    "description": "Increases Effectiveness and Speed by 30%.",
+    "type": "buff",
+    "id": "blood_aura",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/challenge.png",
+    "name": "Challenge (Undispellable)",
+    "description": "After using a basic skill, when the target is a Hero, deals additional damage equivalent to 10% of the target's max Health. Dispelled after the effect activates and increases Speed of the bearer for 2 turns.",
+    "type": "buff",
+    "id": "challenge",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/chain_of_chiron.png",
+    "name": "Chain of Chiron (Undispellable)",
+    "description": "After attacking, inflicts a random debuff (Stun, Cannot Buff, Decrease Hit Chance, Restrict) on the target for 1 turn.",
+    "type": "buff",
+    "id": "chain_of_chiron",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/enhanced_dual_attack.png",
+    "name": "Enhanced Dual Attack (Undispellable)",
+    "description": "When an ally except for the bearer uses a skill and the bearer is available to use a Dual Attack, attacks the same target with a basic attack. Enhanced Dual Attack is dispelled when the bearer uses a Dual Attack.",
+    "type": "buff",
+    "id": "enhanced_dual_attack",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/counterattack.png",
+    "name": "Counterattack",
+    "description": "Counterattacks with basic skill when attacked. Is not triggered by extra attacks or counterattacks.",
+    "type": "buff",
+    "id": "counterattack",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_critical_hit_chance.png",
+    "name": "Increase Critical Hit Chance",
+    "description": "Increase Critical Hit Chance by 50%.",
+    "type": "buff",
+    "id": "increase_critical_hit_chance",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_critical_hit_damage.png",
+    "name": "Increase Critical Hit Damage",
+    "description": "Increase Critical Hit Damage by 50%.",
+    "type": "buff",
+    "id": "increase_critical_hit_damage",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_critical_hit_resistance.png",
+    "name": "Increase Critical Hit Resistance",
+    "description": "Increase Critical Hit Resistance by 50%.",
+    "type": "buff",
+    "id": "increase_critical_hit_resistance",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/immunity.png",
+    "name": "Immunity",
+    "description": "Cannot be affected by any debuffs or some harmful effects.",
+    "type": "buff",
+    "id": "immunity",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/increase_defense.png",
+    "name": "Increase Defense",
+    "description": "Increase Defense by 60%.",
+    "type": "buff",
+    "id": "increase_defense",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/daydream.png",
+    "name": "Daydream (Undispellable)",
+    "description": "After attacking, inflicts a random debuff (Decrease Attack, Decrease Hit Chance, Decrease Speed, Cannot Buff) on the target for 1 turn.",
+    "type": "buff",
+    "id": "daydream",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/archdemons_might.png",
+    "name": "Archdemon's Might (Undispellable)",
+    "description": "Increases Attack by 30% and Evasion by 50%.",
+    "type": "buff",
+    "id": "archdemons_might",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/perception.png",
+    "name": "Perception (Undispellable)",
+    "description": "Increase Critical Hit Chance and Critical Hit Damage by 15%.",
+    "type": "buff",
+    "id": "perception",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/cascade.png",
+    "name": "Cascade (Undispellable)",
+    "description": "After attacking, deals 4,000 fixed damage per target. Dispelled after attacking.",
+    "type": "buff",
+    "id": "cascade",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/damage_limit.png",
+    "name": "Damage Limit",
+    "description": "When attacked, damage suffered in one attack does not exceed 35% of max Health.",
+    "type": "buff",
+    "id": "damage_limit",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/increase_evasion.png",
+    "name": "Increase Evasion",
+    "description": "Increases Evasion by 50%.",
+    "type": "buff",
+    "id": "increase_evasion",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/elemental_wisdom.png",
+    "name": "Elemental Wisdom (Unique Effect)",
+    "description": "Increases Defense by 5%, Can stack up to 3 times.\nElemental Wisdom granted by an allay other than the caster stacks only once per element.",
+    "type": "buff",
+    "id": "elemental_wisdom",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/skill_nullifier.png",
+    "name": "Skill Nullifier",
+    "description": "Nullifies damage from skills.",
+    "type": "buff",
+    "id": "skill_nullifier",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/explosives.png",
+    "name": "Explosives (Undispellable)",
+    "description": "After attacking, plants bombs on the target for 2 turns. Dispelled after attacking.",
+    "type": "buff",
+    "id": "explosives",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/flame_alchemist.png",
+    "name": "Flame Alchemist (Undispellable)",
+    "description": "lncreases Hit Chance and Attack by 20%. Flame Alchemist is dispelled after being attacked by an Ice elemental enemy.",
+    "type": "buff",
+    "id": "flame_alchemist",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/oasis_all_ride_pass.png",
+    "name": "Oasis All-Ride Pass (Undispellable)",
+    "description": "Does not cost any Soul to activate the first Soulburn. Dispelled once the effect is activated.",
+    "type": "buff",
+    "id": "oasis_all_ride_pass",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/special_friendship.png",
+    "name": "Special Friendship (Undispellable)",
+    "description": "After attacking on the bearer's turn, a critical hit deals additional damage proportional to the bearer's max Health to the target.",
+    "type": "buff",
+    "id": "special_friendship",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/escort.png",
+    "name": "Escort",
+    "description": "The bearer receives 30% of the damage suffered by all allies in their place. When more than one damage distribution effect is granted, only the strongest effect is applied.",
+    "type": "buff",
+    "id": "escort",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/ferocious_stand.png",
+    "name": "Ferocious Stand (Undispellable)",
+    "description": "Allies except for the bearer cannot be selected as a target for attacks.",
+    "type": "buff",
+    "id": "ferocious_stand",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/vigor.png",
+    "name": "Vigor (Undispellable)",
+    "description": "Increase Attack and Defense by 30%.",
+    "type": "buff",
+    "id": "vigor",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/hawks_eye.png",
+    "name": "Hawk's Eye (Undispellable)",
+    "description": "Increases Speed and Critical Hit Damage by 30%.",
+    "type": "buff",
+    "id": "hawks_eye",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/continuous_heal.png",
+    "name": "Continuous Heal",
+    "description": "Recovers 15% of max Health at the start of every turn. This effect can stack.",
+    "type": "buff",
+    "id": "continuous_heal",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/stealth.png",
+    "name": "Stealth",
+    "description": "When other allies are present, cannot be selected as a target for attacks. When suffering an attack that targets all allies, grants damage reduction and is dispelled when suffering damage from an attack.",
+    "type": "buff",
+    "id": "stealth",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/ice_cream.png",
+    "name": "Ice Cream (Undispellable)",
+    "description": "After being attacked, recovers 20% of max Health. Dispelled after being attacked.",
+    "type": "buff",
+    "id": "ice_cream",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/illusion.png",
+    "name": "Illusion (Unique Effect)",
+    "description": "When an ally capable of being attacked is still remaining, the caster cannot be selected as a target for attacks.",
+    "type": "buff",
+    "id": "illusion",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/immortal.png",
+    "name": "Immortal",
+    "description": "Cannot die for a certain number of turns.",
+    "type": "buff",
+    "id": "immortal",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/increase_hit_chance.png",
+    "name": "Increase Hit Chance",
+    "description": "Increase Hit Chance by 50%.",
+    "type": "buff",
+    "id": "increase_hit_chance",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/indomitable.png",
+    "name": "Indomitable (Undispellable)",
+    "description": "Increases Defense and Effect Resistance by 30%.",
+    "type": "buff",
+    "id": "indomitable",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/invincible.png",
+    "name": "Invincible",
+    "description": "Nullifies all damage.",
+    "type": "buff",
+    "id": "invincible",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/loveliness.png",
+    "name": "Loveliness (Undispellable)",
+    "description": "\"Don't stop there, serve me already, meow!\"",
+    "type": "buff",
+    "id": "loveliness",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/rage.png",
+    "name": "Rage (Undispellable)",
+    "description": "Increase Attack and Speed by 20%.",
+    "type": "buff",
+    "id": "rage",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/immense_power.png",
+    "name": "Immense Power (Unique Effect)",
+    "description": "Increases Attack by 15% and revives with 50% Health after receiving lethal damage. Can revive only once per battle.",
+    "type": "buff",
+    "id": "immense_power",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/dragon_eye_milim_eye.png",
+    "name": "Dragon Eye (Milim Eye) (Undispellable)",
+    "description": "Increases Hit Chance and Evasion by 20%.",
+    "type": "buff",
+    "id": "dragon_eye_milim_eye",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/demon_mode.png",
+    "name": "Demon Mode (Undispellable)",
+    "description": "Unaffected by debuffs and some harmful effects. When attacking ignores Effect Resistance. This effect only applies to Hero skills.",
+    "type": "buff",
+    "id": "demon_mode",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/rampage.png",
+    "name": "Rampage (Undispellable)",
+    "description": "Increases Speed and Evasion by 20%.",
+    "type": "buff",
+    "id": "rampage",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_penetration_resistance.png",
+    "name": "Increase Penetration Resistance",
+    "description": "Increases Penetration Resistance by 50%.",
+    "type": "buff",
+    "id": "increase_penetration_resistance",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/possession.png",
+    "name": "Possession (Undispellable)",
+    "description": "Increases Attack by 25%. Counterattacks when suffering a critical hit.",
+    "type": "buff",
+    "id": "possession",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/barrier.png",
+    "name": "Barrier",
+    "description": "When suffering damage, absorbs a certain amount of damage instead of Health.",
+    "type": "buff",
+    "id": "barrier",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/reflect.png",
+    "name": "Reflect",
+    "description": "When attacked, reflects 30% of the damage suffered to the attacker. Reflected damage cannot be higher than the bearer's max Health.",
+    "type": "buff",
+    "id": "reflect",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_effect_resistance.png",
+    "name": "Increase Effect Resistance",
+    "description": "Increases Effect Resistance by 50%.",
+    "type": "buff",
+    "id": "increase_effect_resistance",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/swift_attack.png",
+    "name": "Swift Attack",
+    "description": "At the end of the turn, increases Combat Readiness by 50%. Dispelled when the effect is activated.",
+    "type": "buff",
+    "id": "swift_attack",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/shyness.png",
+    "name": "Shyness (Undispellable)",
+    "description": "Solitaria... You said it wouldn't be revealing!",
+    "type": "buff",
+    "id": "shyness",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/idol.png",
+    "name": "Idol (Undispellable)",
+    "description": "My live show won't stop until my turn is over!",
+    "type": "buff",
+    "id": "idol",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/skill_effect_nullifier.png",
+    "name": "Skill Effect Nullifier",
+    "description": "Nullifies an effect from skills of enemy Heroes and artifacts.",
+    "type": "buff",
+    "id": "skill_effect_nullifier",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/increase_speed.png",
+    "name": "Increase Speed",
+    "description": "Increase Speed by 30%.",
+    "type": "buff",
+    "id": "increase_speed",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/spirits_blessing.png",
+    "name": "Spirit's Blessing (Undispellable)",
+    "description": "Increases Effect Resistance by 60%.",
+    "type": "buff",
+    "id": "spirits_blessing",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/spirit_lords_protection.png",
+    "name": "Spirit Lord's Protection (Undispellable)",
+    "description": "Upon dying, revives with 50% Health and increases Combat Readiness by 50%.",
+    "type": "buff",
+    "id": "spirit_lords_protection",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/stars_blessing.png",
+    "name": "Star's Blessing (Undispellable)",
+    "description": "Increases Attack and Critical Hit Damage by 15%.",
+    "type": "buff",
+    "id": "stars_blessing",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/vampirism.png",
+    "name": "Vampirism",
+    "description": "When attacking, absorbs 30% of damage dealt as Health.",
+    "type": "buff",
+    "id": "vampirism",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/spoils.png",
+    "name": "Spoils (Unique Effect)",
+    "description": "Increases Attack, Health, and Defense by 20%. Can stack up to 4 times. Upon death, dispels all Pilfer from all enemies.",
+    "type": "buff",
+    "id": "spoils",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/bzzt.png",
+    "name": "Bzzt! (Undispellable)",
+    "description": "After attacking, inflicts 2,000 additional damage and up to 10% injuries on all enemies.",
+    "type": "buff",
+    "id": "bzzt",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/torrent.png",
+    "name": "Torrent (Undispellable)",
+    "description": "After attacking with a basic skill, if it is a Single Attack, deals additional damage to the target proportional to damage dealt. Torrent is dispelled after attacking.",
+    "type": "buff",
+    "id": "torrent",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/pestilence.png",
+    "name": "Pestilence (Undispellable)",
+    "description": "After attacking on the bearer's turn, inflicts venom for 1 turn and at the end of the turn, detonates venom effects inflicted on the enemy.",
+    "type": "buff",
+    "id": "pestilence",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/oath_of_punishment.png",
+    "name": "Oath of Punishment (Undispellable)",
+    "description": "Unaffected by any debuffs and some harmful effects. After attacking on the bearer's turn, deals 2,500 fixed damage to the target.",
+    "type": "buff",
+    "id": "oath_of_punishment",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/weakness_shared.png",
+    "name": "Weakness Shared (Undispellable)",
+    "description": "When an ally attacks, if the target is an Elite or Boss monster, increases damage dealt by 10%.",
+    "type": "buff",
+    "id": "weakness_shared",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/minds_eye.png",
+    "name": "Mind's Eye (Undispellable)",
+    "description": "When attacking, inflicts injuries. The severity of injuries increases proportional to damage dealt. Injuries decrease max Health of the target by up to 10% every time this skill is used.",
+    "type": "buff",
+    "id": "minds_eye",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/willful_flame.png",
+    "name": "Willful Flame (Undispellable)",
+    "description": "When a Fire element ally attacks, penetrates the target's Defense by 15%. ",
+    "type": "buff",
+    "id": "willful_flame",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/omen.png",
+    "name": "Omen (Unique Effect)",
+    "description": "Something is watching.",
+    "type": "debuff",
+    "id": "omen",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/restrict.png",
+    "name": "Restrict",
+    "description": "Cannot receive Combat Readiness increase effects other than that provided by the Speed stat.",
+    "type": "debuff",
+    "id": "restrict",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/decrease_attack.png",
+    "name": "Decrease Attack",
+    "description": "Decrease Attack by 50%",
+    "type": "debuff",
+    "id": "decrease_attack",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/burn.png",
+    "name": "Burn",
+    "description": "At the start of the turn, suffers huge damage proportional to the caster's Attack.",
+    "type": "debuff",
+    "id": "burn",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/decrease_hit_chance.png",
+    "name": "Decrease Hit Chance",
+    "description": "Decreases Hit Chance by 50%.",
+    "type": "debuff",
+    "id": "decrease_hit_chance",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/bleed.png",
+    "name": "Bleed",
+    "description": "At the start of the turn, suffers damage proportional to the caster's Attack.",
+    "type": "debuff",
+    "id": "bleed",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/bomb.png",
+    "name": "Bomb",
+    "description": "At the end of the duration, suffers damage proportional to the caster's Attack and is stunned for 1 turn. Duration cannot be extended or decreased, and stun effect ignores Effect Resistance.",
+    "type": "debuff",
+    "id": "bomb",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/cannot_buff.png",
+    "name": "Cannot Buff",
+    "description": "Cannot receive any buffs.",
+    "type": "debuff",
+    "id": "cannot_buff",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/class_debuff.png",
+    "name": "Class Debuff",
+    "description": "Thief, Warrior, Ranger, Mage: Decreased Attack\nKnight, Soul-Weaver: Decreased Defense",
+    "type": "debuff",
+    "id": "class_debuff",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/curse.png",
+    "name": "Curse",
+    "description": "When an ally except for the bearer is attacked by a Single Attack, additionally inflicts a portion of the damage on the bearer. The additional damage is inflicted at the end of the turn.",
+    "type": "debuff",
+    "id": "curse",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/death_sentence.png",
+    "name": "Death Sentence (Undispellable)",
+    "description": "At the start of someone's 12th turn, deals 50,000 fixed damage to the bearer. Ignores damage sharing effects. Dispelled when the caster dies.",
+    "type": "debuff",
+    "id": "death_sentence",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/beguile.png",
+    "name": "Beguile",
+    "description": "At the end of the turn, deals additional damage to all allies except for the bearer equivalent to 10% of their respective max Health. Beguile effect applies to Heroes only, and is dispelled once the effect is activated.",
+    "type": "debuff",
+    "id": "beguile",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/decrease_defense.png",
+    "name": "Decrease Defense",
+    "description": "Decreases Defense by 70%.",
+    "type": "debuff",
+    "id": "decrease_defense",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/seal.png",
+    "name": "Seal",
+    "description": "Passive skill effects do not activate. Applies to Heroes only.",
+    "type": "debuff",
+    "id": "seal",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/decrease_speed.png",
+    "name": "Decrease Speed",
+    "description": "Decreases Speed by 30%",
+    "type": "debuff",
+    "id": "decrease_speed",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/poison.png",
+    "name": "Poison",
+    "description": "Receives damage equivalent to 5% of max Health at the start of the turn.",
+    "type": "debuff",
+    "id": "poison",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/fear.png",
+    "name": "Fear",
+    "description": "Cannot act for a certain number of turns. At the start of the turn, has a 40% chance to be dispelled.",
+    "type": "debuff",
+    "id": "fear",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/frostbite.png",
+    "name": "Frostbite",
+    "description": "Cannot be subject to any damage reduction or damage sharing effects. Does not affect damage suffered amount limit effect. Frostbite effect applies to Heroes only.",
+    "type": "debuff",
+    "id": "frostbite",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/unhealable.png",
+    "name": "Unhealable",
+    "description": "Cannot receive recover Health effects.",
+    "type": "debuff",
+    "id": "unhealable",
+    "reviewedOn": "2024-09-06"
+  },
+  {
+    "iconUrl": "buffs/block.png",
+    "name": "Block",
+    "description": "Unaffected by any buffs, some beneficial effects, and dispel debuff effects except when granted by the bearer. Applies to Heroes only.",
+    "type": "debuff",
+    "id": "block",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/volatility.png",
+    "name": "Volatility (Unique Effect)",
+    "description": "Increases Attack by 15% but increases damage suffered by 10%.",
+    "type": "debuff",
+    "id": "volatility",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/magic_nail.png",
+    "name": "Magic Nail",
+    "description": "When attacked, inflicts additional damage proportional to the attacker's Attack.",
+    "type": "debuff",
+    "id": "magic_nail",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/cannot_counterattack.png",
+    "name": "Cannot Counterattack",
+    "description": "Disables counterattack. Cannot Counterattack does not apply to monsters.",
+    "type": "debuff",
+    "id": "cannot_counterattack",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/provoke.png",
+    "name": "Provoke",
+    "description": "At the start of the turn, forcibly uses basic skill on the target that inflicted provoke.",
+    "type": "debuff",
+    "id": "provoke",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/redirected_provoke.png",
+    "name": "Redirected Provoke",
+    "description": "At the start of the turn, forcibly uses basic attack skill on the enemy with the highest max Health.",
+    "type": "debuff",
+    "id": "redirected_provoke",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/bind.png",
+    "name": "Bind",
+    "description": "When it's not the bearer's turn, cannot activate additional skills, counterattacks, and Dual Attacks. Applies to Heroes only.",
+    "type": "debuff",
+    "id": "bind",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/silence.png",
+    "name": "Silence",
+    "description": "When selecting a skill on the bearer's turn, cannot select skills other than the basic skill.",
+    "type": "debuff",
+    "id": "silence",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/sleep.png",
+    "name": "Sleep",
+    "description": "Cannot act for a certain number of turns. Decreases Critical Hit Resistance and Evasion by 100% and is dispelled when suffering damage from an attack.",
+    "type": "debuff",
+    "id": "sleep",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/stigma.png",
+    "name": "Stigma",
+    "description": "Decreases amount recovered by 50% and reduces the effect of Combat Readiness increases by 50%.",
+    "type": "debuff",
+    "id": "stigma",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/stun.png",
+    "name": "Stun",
+    "description": "Cannot act for a certain number of turns.",
+    "type": "debuff",
+    "id": "stun",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/target.png",
+    "name": "Target",
+    "description": "Increases damage suffered by 15% and decreases Evasion by 15%.",
+    "type": "debuff",
+    "id": "target",
+    "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/pilfer.png",
+    "name": "Pilfer (Unique Effect)",
+    "description": "Decreases Attack, Health, and Defense by 20% and grants Spoils to the attacker. Can only apply to Heroes and remains even after dying.",
+    "type": "debuff",
+    "id": "pilfer",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/trauma.png",
+    "name": "Trauma (Unique Effect)",
+    "description": "Decreases Defense by 70%, but increases Attack and Speed by 100%. If the Defense prior to the effect of trauma is 2000 or higher, the stat increase effects are doubled.",
+    "type": "debuff",
+    "id": "trauma",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/vampiric_touch.png",
+    "name": "Vampiric Touch",
+    "description": "When attacked, recovers 10% of the attacker's max Health.",
+    "type": "debuff",
+    "id": "vampiric_touch",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/venom.png",
+    "name": "Venom",
+    "description": "At the start of the turn, suffers damage equivalent of 10% of max Health and is inflicted with injuries proportional to damage suffered. Venom effect applies to Heroes only.",
+    "type": "debuff",
+    "id": "venom",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/rupture.png",
+    "name": "Rupture",
+    "description": "When attacked, inflicts additional damage proportional to max Health. Applies to Heroes only.",
+    "type": "debuff",
+    "id": "rupture",
+    "reviewedOn": ""
+  },
+  {
+    "iconUrl": "buffs/abundance.png",
+    "name": "Abundance (Unique Effect)",
+    "description": "After attacking, inflicts 2,000 additional damage on the target.",
+    "type": "buff",
+    "id": "abundance",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/offering.png",
+    "name": "Offering (Unique Effect)",
+    "description": "Grants 70% damage sharing of damage received by all allies. Upon receiving lethal damage, grants immortality for 1 turn. Immortality can only be activated once per battle.",
+    "type": "buff",
+    "id": "offering",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/collapse.png",
+    "name": "Collapse",
+    "description": "Decreases max Health by 25%. This effect is doubled when applied to Heroes.",
+    "type": "debuff",
+    "id": "collapse",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/sacred_covenant.png",
+    "name": "Sacred Covenant (Undispellable)",
+    "description": "Cannot be affected by any debuffs or some harmful effects. Upon dying, revives with 100% Health.",
+    "type": "buff",
+    "id": "sacred_covenant",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/demon_blade_unleashed.png",
+    "name": "Demon Blade Unleashed (Unique Effect)",
+    "description": "Increases Attack by 200% and cannot die for a certain number of turns, but cannot be subject to damage sharing effects.",
+    "type": "buff",
+    "id": "demon_blade_unleashed",
+    "reviewedOn": "2025-09-06"
+  },
+  {
+    "iconUrl": "buffs/solution.png",
+    "name": "Solution (Unique Effect)",
+    "description": "Enhances the next Once-in-a-Lifetime Research. Dispelled after activating the effect. Remains even after reviving.",
+    "type": "buff",
+    "id": "solution",
+    "reviewedOn": "2025-09-21"
+  },
+  {
+    "iconUrl": "buffs/defensive_magic.png",
+    "name": "Defensive Magic (Undispellable)",
+    "description": "When attacked, consumes 4 Soul, nullifying damage from skills.",
+    "type": "buff",
+    "id": "defensive_magic",
+    "reviewedOn": "2025-09-25"
+  }
+]
