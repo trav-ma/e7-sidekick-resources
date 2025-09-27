@@ -81,16 +81,16 @@ Balance patch history tracking hero and artifact changes. Currently there's no "
 Currently only storing balance patches back to "2024-09-12" and exclusive equipment additions back to "2024-11-22".
 
 Older exclusive equipments worth adding:
-    - Wukong 2024-11-21
-    - Fairy 2024-11-21
-    - Spec Sez 2024-10-24
-    - Fire Hwa 2024-09-26
-    - Summer Iseria 2024-09-26
+- Wukong 2024-11-21
+- Fairy 2024-11-21
+- Spec Sez 2024-10-24
+- Fire Hwa 2024-09-26
+- Summer Iseria 2024-09-26
 
 ### Specialty Changes
 
 Specialty Changes are a different beast. We want to account for all RUNE effects in the hero's skills. This is done by copying that data into the affected skill after a "Skill Tree: " point. For passive effects that are unrelated to any skills, those are copied into Skill2, even if that skill is not a passive skill. 
 
 Example for Commander Lorina:
-"skill2": "Increases Effect Resistance by 50%. Increases Attack by 15.0% each time the caster attacks an enemy. Effect can only stack up to 5 times. Skill Tree: When Effect Resistance is 200% or more, damage suffered in one attack does not exceed 35% of max Health when attacked."
+- "skill2": "Increases Effect Resistance by 50%. Increases Attack by 15.0% each time the caster attacks an enemy. Effect can only stack up to 5 times. Skill Tree: When Effect Resistance is 200% or more, damage suffered in one attack does not exceed 35% of max Health when attacked."
 
