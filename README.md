@@ -8,6 +8,8 @@ This repository contains community-entered, structured JSON data and a small sub
 
 ### heroes.json
 
+`heroUrl` is being deprecated in favor of `imageUrl`. 
+
 **Key Properties:**
 - `key` - Unique identifier (name, lowercased with underscores)
 - `type` - Hero category/classification
