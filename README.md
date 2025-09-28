@@ -8,8 +8,6 @@ This repository contains community-entered, structured JSON data and a small sub
 
 ### heroes.json
 
-`heroUrl` is being deprecated in favor of `imageUrl`. 
-
 **Key Properties:**
 - `key` - Unique identifier (name, lowercased with underscores)
 - `type` - Hero category/classification
@@ -17,6 +15,8 @@ This repository contains community-entered, structured JSON data and a small sub
 - `releasedOn` - Release date (YYYY-MM-DD)
 - `expiredOn` - Expiration date (YYYY-MM-DD)
   - Should always be empty in heroes.json
+- `heroUrl` - banner version of the hero image
+- `circleUrl` - circle version of the hero image
 
 **Skills:**
 - `skill1/2/3` - Skill descriptions
