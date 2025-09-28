@@ -35,7 +35,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2020-07-30",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/holiday_yufine.png"
   },
   {
     "zodiac": "Aries",
@@ -73,7 +74,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2022-08-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/edward_elric.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -111,7 +113,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2023-05-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/benimaru.png"
   },
   {
     "zodiac": "Leo",
@@ -155,7 +158,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-03-20",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/cermia.png"
   },
   {
     "zodiac": "Taurus",
@@ -193,7 +197,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2024-08-22",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/frida.png"
   },
   {
     "zodiac": "Aries",
@@ -236,7 +241,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-06-01",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/abigail.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -274,7 +280,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ainos_2_0.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -312,7 +319,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/requiemroar.png"
   },
   {
     "zodiac": "Taurus",
@@ -350,7 +358,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/otillie.png"
   },
   {
     "zodiac": "Leo",
@@ -388,7 +397,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/commander_lorina.png"
   },
   {
     "zodiac": "Cancer",
@@ -426,7 +436,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/shadow_knight_pyllis.png"
   },
   {
     "zodiac": "Pisces",
@@ -464,7 +475,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/hurado.png"
   },
   {
     "zodiac": "Leo",
@@ -502,7 +514,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/chaos_sect_axe.png"
   },
   {
     "zodiac": "Aquarius",
@@ -540,7 +553,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/suthan.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -578,7 +592,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-01-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/hasol.png"
   },
   {
     "zodiac": "Leo",
@@ -616,7 +631,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/pernilla.png"
   },
   {
     "zodiac": "Scorpio",
@@ -654,7 +670,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sven.png"
   },
   {
     "zodiac": "Gemini",
@@ -692,7 +709,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/all_rounder_wanda.png"
   },
   {
     "zodiac": "Scorpio",
@@ -730,7 +748,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/penelope.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -768,7 +787,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/juni.png"
   },
   {
     "zodiac": "Taurus",
@@ -806,7 +826,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/batisse.png"
   },
   {
     "zodiac": "Pisces",
@@ -844,7 +865,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sonia.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -882,7 +904,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/jecht.png"
   },
   {
     "zodiac": "Pisces",
@@ -920,7 +943,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mirsa.png"
   },
   {
     "zodiac": "Leo",
@@ -958,7 +982,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-11-10",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/savior_adin.png"
   },
   {
     "zodiac": "Aries",
@@ -996,7 +1021,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-01-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/yoonryoung.png"
   },
   {
     "zodiac": "Libra",
@@ -1034,7 +1060,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/gunther.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -1072,7 +1099,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/adlay.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -1110,7 +1138,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/celeste.png"
   },
   {
     "zodiac": "Capricorn",
@@ -1148,7 +1177,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/talia.png"
   },
   {
     "zodiac": "Cancer",
@@ -1186,7 +1216,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/gloomyrain.png"
   },
   {
     "zodiac": "Virgo",
@@ -1224,7 +1255,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/leah.png"
   },
   {
     "zodiac": "Capricorn",
@@ -1262,7 +1294,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kiris.png"
   },
   {
     "zodiac": "Virgo",
@@ -1300,7 +1333,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-21"
+    "reviewedOn": "2025-09-21",
+    "imageUrl": "heroes/face/camilla.png"
   },
   {
     "zodiac": "Libra",
@@ -1338,7 +1372,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/captain_rikoris.png"
   },
   {
     "zodiac": "Gemini",
@@ -1376,7 +1411,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lilka.png"
   },
   {
     "zodiac": "Libra",
@@ -1414,7 +1450,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/unbound_knight_arowell.png"
   },
   {
     "zodiac": "Cancer",
@@ -1452,7 +1489,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/magic_scholar_doris.png"
   },
   {
     "zodiac": "Pisces",
@@ -1490,7 +1528,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/elson.png"
   },
   {
     "zodiac": "Virgo",
@@ -1528,7 +1567,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-02-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lucy.png"
   },
   {
     "zodiac": "Capricorn",
@@ -1566,7 +1606,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-29",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kikirat_v2.png"
   },
   {
     "zodiac": "Cancer",
@@ -1604,7 +1645,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/eaton.png"
   },
   {
     "zodiac": "Libra",
@@ -1642,7 +1684,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/vigilante_leader_glenn.png"
   },
   {
     "zodiac": "Taurus",
@@ -1680,7 +1723,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/bernard.png"
   },
   {
     "zodiac": "Leo",
@@ -1718,7 +1762,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-05-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/verdant_adin.png"
   },
   {
     "zodiac": "Taurus",
@@ -1756,7 +1801,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/doll_maker_pearlhorizon.png"
   },
   {
     "zodiac": "Virgo",
@@ -1794,7 +1840,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ezra.png"
   },
   {
     "zodiac": "Gemini",
@@ -1832,7 +1879,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/righteous_thief_roozid.png"
   },
   {
     "zodiac": "Libra",
@@ -1870,7 +1918,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/aither.png"
   },
   {
     "zodiac": "Aquarius",
@@ -1908,7 +1957,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-01-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/orte.png"
   },
   {
     "zodiac": "Aries",
@@ -1946,7 +1996,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/falconer_kluri.png"
   },
   {
     "zodiac": "Aries",
@@ -1984,7 +2035,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/shepherd_jena.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -2022,7 +2074,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/mercenary_helga.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -2060,7 +2113,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mucacha.png"
   },
   {
     "zodiac": "Capricorn",
@@ -2098,7 +2152,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/silvertide_christy.png"
   },
   {
     "zodiac": "Leo",
@@ -2136,7 +2191,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mistychain.png"
   },
   {
     "zodiac": "Leo",
@@ -2174,7 +2230,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-09-01",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/serene_purity_adin.png"
   },
   {
     "zodiac": "Pisces",
@@ -2212,7 +2269,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/angelic_montmorancy.png"
   },
   {
     "zodiac": "Libra",
@@ -2250,7 +2308,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ains.png"
   },
   {
     "zodiac": "Aquarius",
@@ -2288,7 +2347,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/muse_rima.png"
   },
   {
     "zodiac": "Virgo",
@@ -2326,7 +2386,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ian.png"
   },
   {
     "zodiac": "Aquarius",
@@ -2364,7 +2425,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mascot_hazel.png"
   },
   {
     "zodiac": "Scorpio",
@@ -2402,7 +2464,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/bask.png"
   },
   {
     "zodiac": "Scorpio",
@@ -2440,7 +2503,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-01-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/muwi.png"
   },
   {
     "zodiac": "Scorpio",
@@ -2478,7 +2542,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/taranor_royal_guard.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -2516,7 +2581,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/researcher_carrot.png"
   },
   {
     "zodiac": "Leo",
@@ -2554,7 +2620,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/summers_disciple_alexa.png"
   },
   {
     "zodiac": "Leo",
@@ -2592,7 +2659,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ragnvald.png"
   },
   {
     "zodiac": "Cancer",
@@ -2630,7 +2698,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/helen.png"
   },
   {
     "zodiac": "Libra",
@@ -2668,7 +2737,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/taranor_guard.png"
   },
   {
     "zodiac": "Scorpio",
@@ -2706,7 +2776,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/enott.png"
   },
   {
     "zodiac": "Leo",
@@ -2744,7 +2815,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/talaz.png"
   },
   {
     "zodiac": "Pisces",
@@ -2782,7 +2854,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/judith.png"
   },
   {
     "zodiac": "Aquarius",
@@ -2820,7 +2893,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/zealot_carmainerose.png"
   },
   {
     "zodiac": "Leo",
@@ -2858,7 +2932,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/hataan.png"
   },
   {
     "zodiac": "Libra",
@@ -2896,7 +2971,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lena.png"
   },
   {
     "zodiac": "Leo",
@@ -2934,7 +3010,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/chaos_inquisitor.png"
   },
   {
     "zodiac": "Aries",
@@ -2972,7 +3049,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-06-12",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/champion_zerato.png"
   },
   {
     "zodiac": "Taurus",
@@ -3015,7 +3093,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-04-16",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sinful_angelica.png"
   },
   {
     "zodiac": "Cancer",
@@ -3053,7 +3132,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/shooting_star_achates.png"
   },
   {
     "zodiac": "Pisces",
@@ -3091,7 +3171,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/auxiliary_lots.png"
   },
   {
     "zodiac": "Libra",
@@ -3129,7 +3210,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/nemunas.png"
   },
   {
     "zodiac": "Leo",
@@ -3167,7 +3249,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-01-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/januta.png"
   },
   {
     "zodiac": "Libra",
@@ -3205,7 +3288,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/melany.png"
   },
   {
     "zodiac": "Aries",
@@ -3243,7 +3327,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/tieria.png"
   },
   {
     "zodiac": "Aquarius",
@@ -3287,7 +3372,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-12-14",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/assassin_cidd.png"
   },
   {
     "zodiac": "Gemini",
@@ -3330,7 +3416,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-09-04",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/roaming_warrior_leo.png"
   },
   {
     "zodiac": "Taurus",
@@ -3368,7 +3455,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-04-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/crescent_moon_rin.png"
   },
   {
     "zodiac": "Aries",
@@ -3406,7 +3494,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/claudia.png"
   },
   {
     "zodiac": "Gemini",
@@ -3444,7 +3533,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/godmother.png"
   },
   {
     "zodiac": "Leo",
@@ -3482,7 +3572,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-05-12",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/holy_flame_adin.png"
   },
   {
     "zodiac": "Scorpio",
@@ -3520,7 +3611,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/azalea.png"
   },
   {
     "zodiac": "Libra",
@@ -3558,7 +3650,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/adventurer_ras.png"
   },
   {
     "zodiac": "Scorpio",
@@ -3596,7 +3689,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/celestial_mercedes.png"
   },
   {
     "zodiac": "Scorpio",
@@ -3639,7 +3733,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/blood_blade_karin.png"
   },
   {
     "zodiac": "Scorpio",
@@ -3677,7 +3772,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-26",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/peacemaker_furious.png"
   },
   {
     "zodiac": "Virgo",
@@ -3720,7 +3816,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-01-30",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kitty_clarissa.png"
   },
   {
     "zodiac": "Taurus",
@@ -3758,7 +3855,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-09-09",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/angel_of_light_angelica.png"
   },
   {
     "zodiac": "Taurus",
@@ -3802,7 +3900,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-03-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/great_chief_khawana.png"
   },
   {
     "zodiac": "Pisces",
@@ -3845,7 +3944,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-08-24",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/infinite_horizon_achates.png"
   },
   {
     "zodiac": "Cancer",
@@ -3888,7 +3988,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/guider_aither.png"
   },
   {
     "zodiac": "Pisces",
@@ -3931,7 +4032,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-10-31",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/troublemaker_crozet.png"
   },
   {
     "zodiac": "Taurus",
@@ -3975,7 +4077,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-12-26",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/benevolent_romann.png"
   },
   {
     "zodiac": "Aquarius",
@@ -4013,7 +4116,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-10-26",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/abyssal_yufine.png"
   },
   {
     "zodiac": "Taurus",
@@ -4056,7 +4160,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/assassin_coli.png"
   },
   {
     "zodiac": "Aries",
@@ -4100,7 +4205,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-06-01",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/last_piece_karin.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -4144,7 +4250,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-03-13",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/blaze_dingo.png"
   },
   {
     "zodiac": "Capricorn",
@@ -4187,7 +4294,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/wanderer_silk.png"
   },
   {
     "zodiac": "Aries",
@@ -4230,7 +4338,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-02-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/bad_cat_armin.png"
   },
   {
     "zodiac": "Scorpio",
@@ -4273,7 +4382,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/watcher_schuri.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -4311,7 +4421,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-06-12",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/fallen_cecilia.png"
   },
   {
     "zodiac": "Libra",
@@ -4349,7 +4460,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/fighter_maya.png"
   },
   {
     "zodiac": "Gemini",
@@ -4392,7 +4504,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-02-20",
-    "reviewedOn": "2025-09-05"
+    "reviewedOn": "2025-09-05",
+    "imageUrl": "heroes/face/tempest_surin.png"
   },
   {
     "zodiac": "Gemini",
@@ -4435,7 +4548,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/shadow_rose.png"
   },
   {
     "zodiac": "Taurus",
@@ -4473,7 +4587,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-08-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/moon_bunny_dominiel.png"
   },
   {
     "zodiac": "Scorpio",
@@ -4516,7 +4631,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/assassin_cartuja.png"
   },
   {
     "zodiac": "Cancer",
@@ -4559,7 +4675,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/general_purrgis.png"
   },
   {
     "zodiac": "Libra",
@@ -4603,7 +4720,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/rose.png"
   },
   {
     "zodiac": "Cancer",
@@ -4641,7 +4759,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/cartuja.png"
   },
   {
     "zodiac": "Virgo",
@@ -4684,7 +4803,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/rin.png"
   },
   {
     "zodiac": "Virgo",
@@ -4722,7 +4842,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/silk.png"
   },
   {
     "zodiac": "Cancer",
@@ -4760,7 +4881,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2020-06-04",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kizuna_ai.png"
   },
   {
     "zodiac": "Scorpio",
@@ -4798,7 +4920,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/coli.png"
   },
   {
     "zodiac": "Leo",
@@ -4841,7 +4964,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/clarissa.png"
   },
   {
     "zodiac": "Cancer",
@@ -4884,7 +5008,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/angelica.png"
   },
   {
     "zodiac": "Scorpio",
@@ -4922,7 +5047,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/purrgis.png"
   },
   {
     "zodiac": "Cancer",
@@ -4960,7 +5086,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/crozet.png"
   },
   {
     "zodiac": "Capricorn",
@@ -4998,7 +5125,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/leo.png"
   },
   {
     "zodiac": "Gemini",
@@ -5036,7 +5164,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lots.png"
   },
   {
     "zodiac": "Aries",
@@ -5074,7 +5203,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/zerato.png"
   },
   {
     "zodiac": "Gemini",
@@ -5117,7 +5247,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/romann.png"
   },
   {
     "zodiac": "Taurus",
@@ -5155,7 +5286,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/dominiel.png"
   },
   {
     "zodiac": "Capricorn",
@@ -5199,7 +5331,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/armin.png"
   },
   {
     "zodiac": "Virgo",
@@ -5242,7 +5375,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-06-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/free_spirit_tieria.png"
   },
   {
     "zodiac": "Aries",
@@ -5285,7 +5419,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/cidd.png"
   },
   {
     "zodiac": "Leo",
@@ -5329,7 +5464,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/karin.png"
   },
   {
     "zodiac": "Leo",
@@ -5372,7 +5508,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/furious.png"
   },
   {
     "zodiac": "Leo",
@@ -5410,7 +5547,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/schuri.png"
   },
   {
     "zodiac": "Cancer",
@@ -5448,7 +5586,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-05",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/death_dealer_ray.png"
   },
   {
     "zodiac": "Gemini",
@@ -5492,7 +5631,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/achates.png"
   },
   {
     "zodiac": "Scorpio",
@@ -5530,7 +5670,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mercedes.png"
   },
   {
     "zodiac": "Gemini",
@@ -5570,7 +5711,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/specter_tenebria.png"
   },
   {
     "zodiac": "Aries",
@@ -5608,7 +5750,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-11-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/zio.png"
   },
   {
     "zodiac": "Virgo",
@@ -5651,7 +5794,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-08-31",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/veronica.png"
   },
   {
     "zodiac": "Cancer",
@@ -5689,7 +5833,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/corvus.png"
   },
   {
     "zodiac": "Aries",
@@ -5727,7 +5872,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/maya.png"
   },
   {
     "zodiac": "Aquarius",
@@ -5770,7 +5916,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-06-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/serila.png"
   },
   {
     "zodiac": "Virgo",
@@ -5808,7 +5955,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/dingo.png"
   },
   {
     "zodiac": "Pisces",
@@ -5846,7 +5994,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-05-14",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/blood_moon_haste.png"
   },
   {
     "zodiac": "Aquarius",
@@ -5884,7 +6033,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-06-22",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/requiem_roana.png"
   },
   {
     "zodiac": "Leo",
@@ -5922,7 +6072,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-12-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/eternal_wanderer_ludwig.png"
   },
   {
     "zodiac": "Pisces",
@@ -5960,7 +6111,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/khawana.png"
   },
   {
     "zodiac": "Scorpio",
@@ -5998,7 +6150,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/khawazu.png"
   },
   {
     "zodiac": "Aquarius",
@@ -6038,7 +6191,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-01-21",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/archdemons_shadow.png"
   },
   {
     "zodiac": "Gemini",
@@ -6076,7 +6230,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/surin.png"
   },
   {
     "zodiac": "Scorpio",
@@ -6114,7 +6269,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2019-04-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/baiken.png"
   },
   {
     "zodiac": "Libra",
@@ -6154,7 +6310,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-12-10",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/operator_sigret.png"
   },
   {
     "zodiac": "Leo",
@@ -6192,7 +6349,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-06-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/remnant_violet.png"
   },
   {
     "zodiac": "Scorpio",
@@ -6230,7 +6388,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-02-16",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lone_crescent_bellona.png"
   },
   {
     "zodiac": "Taurus",
@@ -6268,7 +6427,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-10-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/desert_jewel_basar.png"
   },
   {
     "zodiac": "Taurus",
@@ -6306,7 +6466,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2024-04-18",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ainz_ooal_gown.png"
   },
   {
     "zodiac": "Pisces",
@@ -6344,7 +6505,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-04-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sea_phantom_politis.png"
   },
   {
     "zodiac": "Gemini",
@@ -6384,7 +6546,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-08-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/briar_witch_iseria.png"
   },
   {
     "zodiac": "Leo",
@@ -6422,7 +6585,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/martial_artist_ken.png"
   },
   {
     "zodiac": "Cancer",
@@ -6460,7 +6624,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-08-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/apocalypse_ravi.png"
   },
   {
     "zodiac": "Virgo",
@@ -6498,7 +6663,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-03-30",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/architect_laika.png"
   },
   {
     "zodiac": "Taurus",
@@ -6536,7 +6702,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-04-15",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/solitaria_of_the_snow.png"
   },
   {
     "zodiac": "Scorpio",
@@ -6574,7 +6741,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-08-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/closer_charles.png"
   },
   {
     "zodiac": "Leo",
@@ -6614,7 +6782,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-21"
+    "reviewedOn": "2025-09-21",
+    "imageUrl": "heroes/face/arbiter_vildred.png"
   },
   {
     "zodiac": "Gemini",
@@ -6652,7 +6821,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-03-17",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/pirate_captain_flan.png"
   },
   {
     "zodiac": "Cancer",
@@ -6690,7 +6860,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-03-04",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/designer_lilibet.png"
   },
   {
     "zodiac": "Capricorn",
@@ -6728,7 +6899,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/dark_corvus.png"
   },
   {
     "zodiac": "Taurus",
@@ -6768,7 +6940,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-07-08",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/straze.png"
   },
   {
     "zodiac": "Virgo",
@@ -6806,7 +6979,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-01-18",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/dragon_king_sharun.png"
   },
   {
     "zodiac": "Gemini",
@@ -6844,7 +7018,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-11-28",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/faithless_lidica.png"
   },
   {
     "zodiac": "Gemini",
@@ -6882,7 +7057,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-12-14",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/maid_chloe.png"
   },
   {
     "zodiac": "Leo",
@@ -6920,7 +7096,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-08-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/navy_captain_landy.png"
   },
   {
     "zodiac": "Aries",
@@ -6960,7 +7137,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-09-14",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/urban_shadow_choux.png"
   },
   {
     "zodiac": "Pisces",
@@ -7000,7 +7178,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/ruele_of_light.png"
   },
   {
     "zodiac": "Cancer",
@@ -7038,7 +7217,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-07-21",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sylvan_sage_vivian.png"
   },
   {
     "zodiac": "Libra",
@@ -7076,7 +7256,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-07-04",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/new_moon_luna.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -7114,7 +7295,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-05-23",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/dragon_bride_senya.png"
   },
   {
     "zodiac": "Gemini",
@@ -7152,7 +7334,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-03-13",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/silver_blade_aramintha.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -7192,7 +7375,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-11-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/spirit_eye_celine.png"
   },
   {
     "zodiac": "Leo",
@@ -7235,7 +7419,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ludwig.png"
   },
   {
     "zodiac": "Pisces",
@@ -7273,7 +7458,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-04-09",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/roana.png"
   },
   {
     "zodiac": "Virgo",
@@ -7311,7 +7497,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/judge_kise.png"
   },
   {
     "zodiac": "Cancer",
@@ -7349,7 +7536,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-08-15",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/empyrean_ilynav.png"
   },
   {
     "zodiac": "Aries",
@@ -7387,7 +7575,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-09-29",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/belian.png"
   },
   {
     "zodiac": "Aquarius",
@@ -7425,7 +7614,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/basar.png"
   },
   {
     "zodiac": "Gemini",
@@ -7463,7 +7653,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2021-08-05",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ram.png"
   },
   {
     "zodiac": "Capricorn",
@@ -7506,7 +7697,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-01-09",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/bellona.png"
   },
   {
     "zodiac": "Scorpio",
@@ -7544,7 +7736,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2022-12-15",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ae_giselle.png"
   },
   {
     "zodiac": "Libra",
@@ -7582,7 +7775,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-10-13",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/astromancer_elena.png"
   },
   {
     "zodiac": "Libra",
@@ -7620,7 +7814,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/little_queen_charlotte.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -7658,7 +7853,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-01-23",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ambitious_tywin.png"
   },
   {
     "zodiac": "Gemini",
@@ -7696,7 +7892,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2023-07-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ocean_breeze_luluca.png"
   },
   {
     "zodiac": "Leo",
@@ -7734,7 +7931,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/iseria.png"
   },
   {
     "zodiac": "Leo",
@@ -7772,7 +7970,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2020-09-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/landy.png"
   },
   {
     "zodiac": "Pisces",
@@ -7810,7 +8009,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-09-17",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/last_rider_krau.png"
   },
   {
     "zodiac": "Virgo",
@@ -7853,7 +8053,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-01-30",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/pavel.png"
   },
   {
     "zodiac": "Cancer",
@@ -7896,7 +8097,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/destina.png"
   },
   {
     "zodiac": "Taurus",
@@ -7940,7 +8142,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-05-21",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ray.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -7983,7 +8186,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-08-22",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/vivian.png"
   },
   {
     "zodiac": "Scorpio",
@@ -8021,7 +8225,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-01-23",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/violet.png"
   },
   {
     "zodiac": "Gemini",
@@ -8065,7 +8270,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-12-30",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/command_model_laika.png"
   },
   {
     "zodiac": "Leo",
@@ -8108,7 +8314,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/vildred.png"
   },
   {
     "zodiac": "Cancer",
@@ -8152,7 +8359,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-01-02",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/alencia.png"
   },
   {
     "zodiac": "Libra",
@@ -8190,7 +8398,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2023-09-21",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/midnight_gala_lilias.png"
   },
   {
     "zodiac": "Scorpio",
@@ -8228,7 +8437,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-10-15",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ervalen.png"
   },
   {
     "zodiac": "Capricorn",
@@ -8272,7 +8482,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2023-12-28",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/blooming_lidica.png"
   },
   {
     "zodiac": "Pisces",
@@ -8310,7 +8521,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-11-16",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/fumyr.png"
   },
   {
     "zodiac": "Libra",
@@ -8348,7 +8560,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2021-10-28",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/rimuru.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -8391,7 +8604,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-11-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/zahhak.png"
   },
   {
     "zodiac": "Gemini",
@@ -8434,7 +8648,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2018-11-29",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/diene.png"
   },
   {
     "zodiac": "Gemini",
@@ -8477,7 +8692,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-12-05",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/elena.png"
   },
   {
     "zodiac": "Scorpio",
@@ -8520,7 +8736,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-06-18",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/celine.png"
   },
   {
     "zodiac": "Taurus",
@@ -8563,7 +8780,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/yufine.png"
   },
   {
     "zodiac": "Scorpio",
@@ -8606,7 +8824,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-11-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/arunka.png"
   },
   {
     "zodiac": "Aries",
@@ -8644,7 +8863,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2024-02-08",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/laia.png"
   },
   {
     "zodiac": "Taurus",
@@ -8687,7 +8907,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2020-12-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/fairytale_tenebria.png"
   },
   {
     "zodiac": "Gemini",
@@ -8725,7 +8946,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2021-08-05",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/emilia.png"
   },
   {
     "zodiac": "Aquarius",
@@ -8768,7 +8990,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/luluca.png"
   },
   {
     "zodiac": "Gemini",
@@ -8812,7 +9035,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-03-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/charles.png"
   },
   {
     "zodiac": "Gemini",
@@ -8856,7 +9080,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-12-17",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mort.png"
   },
   {
     "zodiac": "Taurus",
@@ -8900,7 +9125,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-05-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/senya.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -8938,7 +9164,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2024-04-18",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/albedo.png"
   },
   {
     "zodiac": "Scorpio",
@@ -8982,7 +9209,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-06-20",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/immortal_wukong.png"
   },
   {
     "zodiac": "Aries",
@@ -9020,7 +9248,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-03-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/eda.png"
   },
   {
     "zodiac": "Taurus",
@@ -9058,7 +9287,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-01-17",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/zeno.png"
   },
   {
     "zodiac": "Scorpio",
@@ -9096,7 +9326,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-05-15",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/birgitta.png"
   },
   {
     "zodiac": "Gemini",
@@ -9139,7 +9370,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2019-07-31",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/seaside_bellona.png"
   },
   {
     "zodiac": "Aries",
@@ -9177,7 +9409,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-10-14",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ran.png"
   },
   {
     "zodiac": "Capricorn",
@@ -9215,7 +9448,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2022-08-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/riza_hawkeye.png"
   },
   {
     "zodiac": "Taurus",
@@ -9253,7 +9487,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2019-05-08",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/dizzy.png"
   },
   {
     "zodiac": "Cancer",
@@ -9296,7 +9531,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/tenebria.png"
   },
   {
     "zodiac": "Pisces",
@@ -9334,7 +9570,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-10-06",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lua.png"
   },
   {
     "zodiac": "Aries",
@@ -9377,7 +9614,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/tywin.png"
   },
   {
     "zodiac": "Pisces",
@@ -9421,7 +9659,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/krau.png"
   },
   {
     "zodiac": "Taurus",
@@ -9464,7 +9703,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sigret.png"
   },
   {
     "zodiac": "Scorpio",
@@ -9502,7 +9742,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2022-11-31",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ae_ningning.png"
   },
   {
     "zodiac": "Scorpio",
@@ -9540,7 +9781,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2021-08-05",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/rem.png"
   },
   {
     "zodiac": "Virgo",
@@ -9584,7 +9826,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-05-05",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/taeyou.png"
   },
   {
     "zodiac": "Scorpio",
@@ -9627,7 +9870,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/sez.png"
   },
   {
     "zodiac": "Pisces",
@@ -9665,7 +9909,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2023-12-14",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/byblis.png"
   },
   {
     "zodiac": "Aries",
@@ -9703,7 +9948,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2022-12-22",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ae_karina.png"
   },
   {
     "zodiac": "Aries",
@@ -9741,7 +9987,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-09-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/brieg.png"
   },
   {
     "zodiac": "Capricorn",
@@ -9785,7 +10032,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-08-27",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/choux.png"
   },
   {
     "zodiac": "Virgo",
@@ -9823,7 +10071,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-01-27",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/peira.png"
   },
   {
     "zodiac": "Aquarius",
@@ -9866,7 +10115,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2023-07-20",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lethe.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -9904,7 +10154,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-02-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/tamarinne.png"
   },
   {
     "zodiac": "Leo",
@@ -9948,7 +10199,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/yuna.png"
   },
   {
     "zodiac": "Aquarius",
@@ -9986,7 +10238,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2020-02-27",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/cerise.png"
   },
   {
     "zodiac": "Taurus",
@@ -10029,7 +10282,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-04-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/aria.png"
   },
   {
     "zodiac": "Capricorn",
@@ -10067,7 +10321,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-01-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/elvira.png"
   },
   {
     "zodiac": "Libra",
@@ -10110,7 +10365,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2019-02-13",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/luna.png"
   },
   {
     "zodiac": "Leo",
@@ -10154,7 +10410,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-12-27",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kise.png"
   },
   {
     "zodiac": "Gemini",
@@ -10197,7 +10454,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-05-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/shuna.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -10239,7 +10497,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/chloe.png"
   },
   {
     "zodiac": "Capricorn",
@@ -10277,7 +10536,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-05-14",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/elphelt.png"
   },
   {
     "zodiac": "Leo",
@@ -10321,7 +10581,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/melissa.png"
   },
   {
     "zodiac": "Capricorn",
@@ -10364,7 +10625,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ravi.png"
   },
   {
     "zodiac": "Capricorn",
@@ -10402,7 +10664,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2022-11-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ae_winter.png"
   },
   {
     "zodiac": "Scorpio",
@@ -10440,7 +10703,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-03-21",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/jenua.png"
   },
   {
     "zodiac": "Virgo",
@@ -10483,7 +10747,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-03-23",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/eligos.png"
   },
   {
     "zodiac": "Capricorn",
@@ -10526,7 +10791,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2021-08-26",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/summertime_iseria.png"
   },
   {
     "zodiac": "Leo",
@@ -10570,7 +10836,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-03-27",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/charlotte.png"
   },
   {
     "zodiac": "Capricorn",
@@ -10608,7 +10875,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-09-26",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/nahkwol.png"
   },
   {
     "zodiac": "Gemini",
@@ -10651,7 +10919,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/aramintha.png"
   },
   {
     "zodiac": "Libra",
@@ -10695,7 +10964,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-02-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/hwayoung.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -10733,7 +11003,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2024-04-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/shalltear.png"
   },
   {
     "zodiac": "Gemini",
@@ -10776,7 +11047,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/baal_sezan.png"
   },
   {
     "zodiac": "Virgo",
@@ -10819,7 +11091,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-02-21",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lidica.png"
   },
   {
     "zodiac": "Aries",
@@ -10862,7 +11135,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-09-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lilias.png"
   },
   {
     "zodiac": "Cancer",
@@ -10906,7 +11180,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-11-04",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/milim.png"
   },
   {
     "zodiac": "Gemini",
@@ -10949,7 +11224,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/haste.png"
   },
   {
     "zodiac": "Leo",
@@ -10987,7 +11263,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-09-01",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/roy_mustang.png"
   },
   {
     "zodiac": "Capricorn",
@@ -11031,7 +11308,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ken.png"
   },
   {
     "zodiac": "Gemini",
@@ -11074,7 +11352,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-06-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/ilynav.png"
   },
   {
     "zodiac": "Aries",
@@ -11117,7 +11396,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/cecilia.png"
   },
   {
     "zodiac": "Aries",
@@ -11160,7 +11440,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-12-13",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kayron.png"
   },
   {
     "zodiac": "Gemini",
@@ -11198,7 +11479,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-01-28",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/politis.png"
   },
   {
     "zodiac": "Virgo",
@@ -11240,7 +11522,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-03-12",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kawerik.png"
   },
   {
     "zodiac": "Capricorn",
@@ -11283,7 +11566,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-01-26",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/beehoo.png"
   },
   {
     "zodiac": "Leo",
@@ -11321,7 +11605,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-10-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/kane.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -11359,7 +11644,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2019-04-25",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sol.png"
   },
   {
     "zodiac": "Gemini",
@@ -11403,7 +11689,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-04-08",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/bomb_model_kanna.png"
   },
   {
     "zodiac": "Taurus",
@@ -11441,7 +11728,8 @@
     "type": "Collab",
     "expiredOn": "",
     "releasedOn": "2022-03-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/jack_o.png"
   },
   {
     "zodiac": "Taurus",
@@ -11479,7 +11767,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-09-19",
-    "reviewedOn": "2025-09-21"
+    "reviewedOn": "2025-09-21",
+    "imageUrl": "heroes/face/fenris.png"
   },
   {
     "zodiac": "Libra",
@@ -11517,7 +11806,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-09-26",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/harsetti.png"
   },
   {
     "zodiac": "Gemini",
@@ -11555,7 +11845,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2024-10-17",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/afternoon_soak_flan.png"
   },
   {
     "zodiac": "Cancer",
@@ -11593,7 +11884,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-01-23",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/fenne.png"
   },
   {
     "zodiac": "Pisces",
@@ -11631,7 +11923,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2024-12-12",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/young_senya.png"
   },
   {
     "zodiac": "Pisces",
@@ -11669,7 +11962,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/hellion_lua.png"
   },
   {
     "zodiac": "Scorpio",
@@ -11707,7 +12001,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-12-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/bystander_hwayoung.png"
   },
   {
     "zodiac": "Aquarius",
@@ -11745,7 +12040,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-01-30",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lone_wolf_peira.png"
   },
   {
     "zodiac": "Leo",
@@ -11783,7 +12079,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2025-02-13",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/tori.png"
   },
   {
     "zodiac": "Taurus",
@@ -11821,7 +12118,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-11-14",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/schniel.png"
   },
   {
     "zodiac": "Libra",
@@ -11859,7 +12157,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-03-13",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/successor_taeyou.png"
   },
   {
     "zodiac": "Aries",
@@ -11897,7 +12196,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-04-10",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/guard_captain_krau.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -11941,7 +12241,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-01-09",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/new_kid_adin.png"
   },
   {
     "zodiac": "Gemini",
@@ -11979,7 +12280,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-11-28",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/westwind_executioner_schuri.png"
   },
   {
     "zodiac": "Leo",
@@ -12017,7 +12319,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-04-10",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/victorika.png"
   },
   {
     "zodiac": "Capricorn",
@@ -12055,7 +12358,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-04-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/boss_arunka.png"
   },
   {
     "zodiac": "Taurus",
@@ -12093,7 +12397,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2025-04-31",
-    "reviewedOn": "2025-09-05"
+    "reviewedOn": "2025-09-05",
+    "imageUrl": "heroes/face/rinak.png"
   },
   {
     "zodiac": "Capricorn",
@@ -12131,7 +12436,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-06-05",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/disciplinary_prefect_aria.png"
   },
   {
     "zodiac": "Capricorn",
@@ -12169,7 +12475,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-05-29",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/robin.png"
   },
   {
     "zodiac": "Leo",
@@ -12207,7 +12514,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2025-07-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/argent_waves_hwayoung.png"
   },
   {
     "zodiac": "Pisces",
@@ -12245,7 +12553,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-07-10",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/witch_of_the_mere_tenebria.png"
   },
   {
     "zodiac": "Scorpio",
@@ -12283,7 +12592,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/inheritor_amiki.png"
   },
   {
     "zodiac": "Scorpio",
@@ -12321,7 +12631,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2025-07-17",
-    "reviewedOn": "2025-09-21"
+    "reviewedOn": "2025-09-21",
+    "imageUrl": "heroes/face/aram.png"
   },
   {
     "zodiac": "Scorpio",
@@ -12361,7 +12672,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-01-30",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/specimen_sez.png"
   },
   {
     "zodiac": "Taurus",
@@ -12399,7 +12711,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-04-24",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sage_baal_sezan.png"
   },
   {
     "zodiac": "Aquarius",
@@ -12437,7 +12750,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-12-23",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/conqueror_lilias.png"
   },
   {
     "zodiac": "Aries",
@@ -12477,7 +12791,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-02-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lionheart_cermia.png"
   },
   {
     "zodiac": "Taurus",
@@ -12515,7 +12830,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-09-01",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/commander_pavel.png"
   },
   {
     "zodiac": "Scorpio",
@@ -12553,7 +12869,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2023-05-11",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/twisted_eidolon_kayron.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -12591,7 +12908,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-10-29",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/top_model_luluca.png"
   },
   {
     "zodiac": "Pisces",
@@ -12629,7 +12947,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2024-08-08",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/festive_eda.png"
   },
   {
     "zodiac": "Capricorn",
@@ -12673,7 +12992,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-11-19",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/flan.png"
   },
   {
     "zodiac": "Gemini",
@@ -12711,7 +13031,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2022-07-28",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/summer_break_charlotte.png"
   },
   {
     "zodiac": "Libra",
@@ -12755,7 +13076,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2019-07-03",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/lilibet.png"
   },
   {
     "zodiac": "Virgo",
@@ -12798,7 +13120,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2020-07-16",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mui.png"
   },
   {
     "zodiac": "Virgo",
@@ -12841,7 +13164,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-07-21",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/sharun.png"
   },
   {
     "zodiac": "Scorpio",
@@ -12885,7 +13209,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/challenger_dominiel.png"
   },
   {
     "zodiac": "Scorpio",
@@ -12928,7 +13253,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-06-17",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/inferno_khawazu.png"
   },
   {
     "zodiac": "Taurus",
@@ -12966,7 +13292,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-08-28",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/lady_of_the_scales.png"
   },
   {
     "zodiac": "Sagittarius",
@@ -13009,7 +13336,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2022-06-16",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/yulha.png"
   },
   {
     "zodiac": "Libra",
@@ -13052,7 +13380,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/crimson_armin.png"
   },
   {
     "zodiac": "Capricorn",
@@ -13092,7 +13421,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2021-05-27",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/mediator_kawerik.png"
   },
   {
     "zodiac": "Pisces",
@@ -13135,7 +13465,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2024-05-02",
-    "reviewedOn": "2025-09-05"
+    "reviewedOn": "2025-09-05",
+    "imageUrl": "heroes/face/wandering_prince_cidd.png"
   },
   {
     "zodiac": "Taurus",
@@ -13178,7 +13509,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2023-02-23",
-    "reviewedOn": "2025-09-06"
+    "reviewedOn": "2025-09-06",
+    "imageUrl": "heroes/face/amid.png"
   },
   {
     "zodiac": "Scorpio",
@@ -13216,7 +13548,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-09-04",
-    "reviewedOn": "2025-09-05"
+    "reviewedOn": "2025-09-05",
+    "imageUrl": "heroes/face/setsuka.png"
   },
   {
     "zodiac": "Libra",
@@ -13254,7 +13587,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-08-28",
-    "reviewedOn": ""
+    "reviewedOn": "",
+    "imageUrl": "heroes/face/genesis_ras.png"
   },
   {
     "zodiac": "Gemini",
@@ -13292,7 +13626,8 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2025-09-18",
-    "reviewedOn": "2025-09-21"
+    "reviewedOn": "2025-09-21",
+    "imageUrl": "heroes/face/wretched_rose.png"
   },
   {
     "zodiac": "Capricorn",
@@ -13330,7 +13665,8 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2025-09-25",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/stark.png"
   },
   {
     "zodiac": "Leo",
@@ -13368,6 +13704,46 @@
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2025-09-25",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-09-25",
+    "imageUrl": "heroes/face/frieren.png"
+  },
+  {
+    "zodiac": "Scorpio",
+    "element": "Dark",
+    "role": "Thief",
+    "name": "Revna",
+    "stars": "3",
+    "skill3": "Attacks the enemy relentlessly, with a 100% chance each to inflict target and decreased Speed for 2 turns. When granted promotion, damage dealt increases proportional to the target's max Health.",
+    "skill2": "At the start of the turn, when an enemy's Health is 50% or less, has a 100% chance to grant exploiting weak points to the caster. When an enemy dies, grants promotion to the caster. Promotion can stack up to 6 times.",
+    "skill1": "Attacks the enemy with a sword, with a 75% chance to poison for 1 turn. When granted promotion, damage dealt increases proportional to the target's max Health.",
+    "imprint": "Health,480,ltrb",
+    "selfImprint": "Attack,144",
+    "dual": "3",
+    "effres": "0",
+    "eff": "0",
+    "cd": "150",
+    "crit": "23",
+    "speed": "108",
+    "health": "5517",
+    "defense": "452",
+    "attack": "1039",
+    "key": "revna",
+    "gender": "Female",
+    "heroUrl": "heroes/banners/revna.png",
+    "skill1IconUrl": "heroes/skills/revna_1.png",
+    "skill2IconUrl": "heroes/skills/revna_2.png",
+    "skill3IconUrl": "heroes/skills/revna_3.png",
+    "skill1Soulburn": "",
+    "skill2Soulburn": "",
+    "skill3Soulburn": "(10 souls) Increases damage dealt.",
+    "statEE": "",
+    "skill1EE": [],
+    "skill2EE": [],
+    "skill3EE": [],
+    "type": "Common",
+    "expiredOn": "",
+    "releasedOn": "2024-09-12",
+    "reviewedOn": "2025-09-28",
+    "imageUrl": "heroes/face/revna.png"
   }
 ]

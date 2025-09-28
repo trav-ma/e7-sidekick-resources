@@ -45,7 +45,7 @@
     "description": "When attacking, increases damage dealt by 20%. After attacking, this effect is dispelled.",
     "type": "buff",
     "id": "exploiting_weak_points",
-    "reviewedOn": ""
+    "reviewedOn": "2025-09-29"
   },
   {
     "iconUrl": "buffs/increase_attack.png",
@@ -690,10 +690,10 @@
   {
     "iconUrl": "buffs/poison.png",
     "name": "Poison",
-    "description": "Receives damage equivalent to 5% of max Health at the start of the turn.",
+    "description": "At the start of the turn, suffers damage equivalent to 5% of max Health.",
     "type": "debuff",
     "id": "poison",
-    "reviewedOn": ""
+    "reviewedOn": "2025-09-28"
   },
   {
     "iconUrl": "buffs/fear.png",
@@ -910,5 +910,13 @@
     "type": "buff",
     "id": "defensive_magic",
     "reviewedOn": "2025-09-25"
+  },
+  {
+    "iconUrl": "buffs/promotion.png",
+    "name": "Promotion (Undispellable)",
+    "description": "Increases Attack, Defense, and max Health by 5%.",
+    "type": "buff",
+    "id": "promotion",
+    "reviewedOn": "2025-09-28"
   }
 ]
