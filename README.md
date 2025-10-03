@@ -13,7 +13,8 @@ This repository contains community-entered, structured JSON data and a small sub
 - `type` - Hero category/classification
   - currently only "Limited" and "Common" where Common refers to heroes always available in the game
 - `releasedOn` - Release date (YYYY-MM-DD)
-- `expiredOn` - Expiration date (YYYY-MM-DD)
+- `expiredOn` - (YYYY-MM-DD) date that this version of the hero definition expired (due to balance patch)
+  - if empty, that means this is the current version of the hero definition 
   - Should always be empty in heroes.json
 - `heroUrl` - banner version of the hero image
 - `circleUrl` - circle version of the hero image
@@ -21,11 +22,12 @@ This repository contains community-entered, structured JSON data and a small sub
 **Skills:**
 - `skill1/2/3` - Skill descriptions
 - `skill1/2/3IconUrl` - Skill icon image paths
-- `skill1/2/3Soulburn` - Soulburn effect descriptions
+- `skill1/2/3Soulburn` - Soulburn effect descriptions prefixed with Soul cost
+  - Example: "skill3Soulburn": "(10 Soul) Increases damage dealt." 
 - `skill1/2/3EE` - Equipment Enhancement arrays (example: it's possible skill 3 has 2 EEs associated to it)
 
 **Base Stats:**
-Please note that stats are increased by any passive skill effects, skill up effects and specialty change skill trees.
+Please note stat increases by any passive skill effects, skill up effects and specialty change skill trees should be factored into these numbers.
 
 - `health`, `attack`, `defense`, `speed` - Base stat values as strings
 - `dual` - Dual attack chance percentage
@@ -34,18 +36,20 @@ Please note that stats are increased by any passive skill effects, skill up effe
 - `eff` - Effectiveness percentage
 - `effres` - Effect resistance percentage
 
-**Additional Stats:**
+**Bonus Stats:**
 - `imprint` - Memory imprint bonuses (format: "stat,value,position")
   - Example: "Health,12.9%,rb" means +12.9% Health at right-bottom position. 
   - Order of positions is always l (left) t (top) r (right) b (bottom)
-- `selfImprint` - Self-imprint bonus (format: "stat,value")
-- `statEE` - Exclusive Equipment stat (format: "stat,value")
+- `selfImprint` - Self-imprint bonus (format: "stat full name,value with % symbol if needed")
+  - Example: Critical Hit Chance,12.9%
+- `statEE` - Exclusive Equipment stat (format: "stat full name,value with % symbol if needed")
+  - Example: Critical Hit Chance,12.9%
 
 ### history-heroes.json
 
 **Structure:** Identical to heroes.json but contains archived versions of heroes before balance changes. Used to track how heroes have changed over time.
 
-Can have multiple versions of the same hero. The key is `expiredOn` is the date of the balance patch. 
+Can have multiple versions of the same hero where `expiredOn` is the date of the balance patch. 
 
 Exclusive equipments being added to a hero are considered as balance patch events.
 
@@ -59,7 +63,7 @@ Exclusive equipments being added to a hero are considered as balance patch event
   - Artifacts locked to a specific hero will be shown as "Mage - Mercedes"
 - `unit` - Hero associated with the artifact
 - `releasedOn` - Release date (YYYY-MM-DD)
-- `expiredOn` - Expiration date (YYYY-MM-DD)
+- `expiredOn` - (YYYY-MM-DD) date that this version of the artifact definition expired (due to balance patch)
   - Empty for active artifacts
   - Unlike heroes Artifacts have historical entries in the main artifacts.json (this will likel be split into "history-artifacts.json" very soon). This means that there will be multiple entries for the same artifact and Expiration date is the date of the balance patch where the artifact was changed
 
