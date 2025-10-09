@@ -1186,9 +1186,9 @@
     "role": "Mage",
     "name": "Gloomyrain",
     "stars": "3",
-    "skill3": "Attacks all enemies with magic, with a 100% chance to transfer all debuffs inflicted on the caster, and dispels all debuff s from the caster.",
-    "skill2": "Increases Attack by 40% and Speed by 30% when the caster is debuffed. Grants immunity to stun, sleep, and provoke.",
-    "skill1": "Has a 15% chance of being granted an extra turn after attacking the enemy. When the caster is debuffed, the chance is doubled.",
+    "skill3": "Attacks all enemies with magic, with a 100% chance to transfer all debuffs inflicted on the caster, and dispels all debuffs from the caster.",
+    "skill2": "When the caster has a debuff, increases Attack by 40% and Speed by 30%. Immune to stun, sleep, and provoke.",
+    "skill1": "Attacks the enemy, before a 15% chance to grant an extra turn. When the caster has a debuff, doubles effect chance.",
     "imprint": "Speed,8,ltrb",
     "selfImprint": "Effectiveness,18%",
     "dual": "3",
@@ -1216,7 +1216,7 @@
     "type": "Common",
     "expiredOn": "",
     "releasedOn": "2018-11-07",
-    "reviewedOn": "",
+    "reviewedOn": "2025-10-09",
     "circleUrl": "heroes/face/gloomyrain.png"
   },
   {
