@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains community-entered, structured JSON data and a small subset of related images for Epic Seven.
+This repository contains community-maintained, structured JSON data and a small subset of related images for the Epic Seven video game.
+
+Please don't hesistate to open Issues if you see any inconsistencies with the data or submit Pull Requests with fixes or updates.
 
 ## Data Files
 
