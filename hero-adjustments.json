@@ -188,5 +188,12 @@
       { "type": "Artifact", "stars": "5", "name": "Draco Plate" },
       { "type": "Artifact", "stars": "5", "name": "Unfading Memories" }
     ]
+  },
+  {
+    "patchDate": "2025-10-23",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Laia" },
+      { "type": "Hero", "stars": "5", "name": "Ocean Breeze Luluca" }
+    ]
   }
 ]
