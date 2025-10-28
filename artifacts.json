@@ -3470,5 +3470,19 @@
         "key": "butterfly_hair_ornament", 
         "releasedOn": "2025-10-02",
         "reviewedOn": "2025-09-25"
+    }, 
+    {
+        "skill": "Increases Attack by 20%. After using a basic skill on the caster's turn, has a 40% chance to grant an extra turn. Can only be activated once per turn.", 
+        "unit": "", 
+        "class": "Thief", 
+        "name": "Master of the Nightmare", 
+        "iconUrl": "artifacts/icon_master_of_the_nightmare.png", 
+        "imageUrl": "artifacts/master_of_the_nightmare.png", 
+        "stars": 5, 
+        "type": "Limited", 
+        "expiredOn": "", 
+        "key": "master_of_the_nightmare", 
+        "releasedOn": "2025-10-23",
+        "reviewedOn": "2025-10-23"
     }
 ]

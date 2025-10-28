@@ -301,7 +301,7 @@
     "description": "After being attacked, recovers 20% of max Health. Dispelled after being attacked.",
     "type": "buff",
     "id": "ice_cream",
-    "reviewedOn": ""
+    "reviewedOn": "2025-10-23"
   },
   {
     "iconUrl": "buffs/illusion.png",

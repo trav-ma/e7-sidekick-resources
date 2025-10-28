@@ -1357,7 +1357,7 @@
     "defense": "583",
     "attack": "1061",
     "key": "captain_rikoris",
-    "gender": "Female",
+    "gender": "Male",
     "heroUrl": "heroes/face/banner_captain_rikoris.png",
     "skill1IconUrl": "heroes/skills/captain_rikoris_1.png",
     "skill2IconUrl": "heroes/skills/captain_rikoris_2.png",
@@ -7885,14 +7885,20 @@
     "skill1Soulburn": "(10 Soul) Combat Readiness increase effect will be applied to all allies.",
     "skill2Soulburn": "",
     "skill3Soulburn": "",
-    "statEE": "",
-    "skill1EE": [],
-    "skill2EE": [],
-    "skill3EE": [],
+    "statEE": "Speed,10",
+    "skill1EE": [
+      "Increases Combat Readiness by an additional 5% when using Order's In, Just Wait!"
+    ],
+    "skill2EE": [
+      "Increases Combat Readiness of the caster by an additional 15% after an enemy uses a non-attack skill."
+    ],
+    "skill3EE": [
+      "Decreases cooldown of This One's On Me by 1 turn."
+    ],
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2023-07-06",
-    "reviewedOn": "",
+    "reviewedOn": "2025-10-23",
     "circleUrl": "heroes/face/ocean_breeze_luluca.png"
   },
   {
@@ -8833,9 +8839,9 @@
     "role": "Warrior",
     "name": "Laia",
     "stars": "5",
-    "skill3": "Attacks the enemy with a bass. When the enemy is defeated, recovers Health of the caster and grants an extra turn. Penetrates the target's Defense, and cannot trigger a critical hit. Amount recovered and damage dealt increase proportional to the caster's max Health. Begins the first battle with full skill cooldown count, and when this skill is unavailable due to cooldown count, at the start of every turn, decreases all skill cooldowns by 1 turn.",
+    "skill3": "Attacks the enemy with a bass. When the enemy is defeated, recovers Health of the caster and grants an extra turn. Penetrates Detense, but cannot trigger a critical hit. Amount recovered and damage dealt increase proportional to the caster's max Health. Begins the first battle with full skill cooldown count, and when this skill is on cooldown, at the start of every turn, decreases all skill cooldowns by 1 turn.",
     "skill2": "Dispels all debuffs from all allies and increases Combat Readiness by 25%, before decreasing skill cooldowns of all allies except for the caster by 1 turn.",
-    "skill1": "Attacks the enemy with a sweet melody, and increases Combat Readiness of the caster by 15%. When The Spirit of Rock is unavailable due to cooldown count, triggers a Dual Attack from a random ally. Damage dealt increases proportional to the caster's max Health.",
+    "skill1": "Attacks the enemy with a sweet melody, and increases Combat Readiness of the caster by 15%. When The Spirit of Rock is on cooldown, triggers a Dual Attack from a random ally. Damage dealt increases proportional to the caster's max Health.",
     "imprint": "Health,10.8%,ltrb",
     "selfImprint": "Health,18%",
     "dual": "3",
@@ -8856,14 +8862,20 @@
     "skill1Soulburn": "",
     "skill2Soulburn": "",
     "skill3Soulburn": "(10 Soul) Increases damage dealt.",
-    "statEE": "",
-    "skill1EE": [],
-    "skill2EE": [],
-    "skill3EE": [],
+    "statEE": "Health,14%",
+    "skill1EE": [
+      "Triggers a Dual Attack from the ally in the back row instead of a random ally when using Sing with Me!"
+    ],
+    "skill2EE": [
+      "Increases Combat Readiness increase amount by 5% when using Sweet Cheers."
+    ],
+    "skill3EE": [
+      "Decreases cooldown of The Spirit of Rock by 1 turn."
+    ],
     "type": "Limited",
     "expiredOn": "",
     "releasedOn": "2024-02-08",
-    "reviewedOn": "",
+    "reviewedOn": "2025-10-23",
     "circleUrl": "heroes/face/laia.png"
   },
   {
