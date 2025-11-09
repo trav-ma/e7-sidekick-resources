@@ -918,5 +918,13 @@
     "type": "buff",
     "id": "promotion",
     "reviewedOn": "2025-09-28"
+  },
+  {
+    "iconUrl": "buffs/superhumanization.png",
+    "name": "Superhumanization (Undispellable)",
+    "description": "Increases max Health and Speed by 100%.",
+    "type": "buff",
+    "id": "superhumanization",
+    "reviewedOn": "2025-11-08"
   }
 ]

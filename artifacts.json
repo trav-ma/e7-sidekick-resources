@@ -3484,5 +3484,19 @@
         "key": "master_of_the_nightmare", 
         "releasedOn": "2025-10-23",
         "reviewedOn": "2025-10-23"
+    }, 
+    {
+        "skill": "After using a non-attack skill, increases Combat Readiness of the caster and the ally in the back row except for the caster by 24%. Can only be activated once every 2 turns.", 
+        "unit": "", 
+        "class": "Ranger", 
+        "name": "Awakened Leaf", 
+        "iconUrl": "artifacts/icon_awakened_leaf.png", 
+        "imageUrl": "artifacts/awakened_leaf.png", 
+        "stars": 5, 
+        "type": "Common", 
+        "expiredOn": "", 
+        "key": "awakened_leaf", 
+        "releasedOn": "2025-11-06",
+        "reviewedOn": "2025-11-08"
     }
 ]
