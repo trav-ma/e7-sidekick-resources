@@ -195,5 +195,18 @@
       { "type": "Hero", "stars": "5", "name": "Laia" },
       { "type": "Hero", "stars": "5", "name": "Ocean Breeze Luluca" }
     ]
+  },
+  {
+    "patchDate": "2025-11-20",
+    "entries": [
+      { "type": "Hero", "stars": "5", "name": "Apocalypse Ravi" },
+      { "type": "Hero", "stars": "5", "name": "Architect Laika" },
+      { "type": "Hero", "stars": "5", "name": "Zio" },
+      { "type": "Hero", "stars": "5", "name": "Ran" },
+      { "type": "Hero", "stars": "5", "name": "Zahhak" },
+      { "type": "Hero", "stars": "4", "name": "Schuri" },
+      { "type": "Hero", "stars": "3", "name": "Hasol" },
+      { "type": "Artifact", "stars": "5", "name": "Mature Sunglasses" }
+    ]
   }
 ]

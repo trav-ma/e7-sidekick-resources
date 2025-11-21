@@ -34,10 +34,10 @@
   {
     "iconUrl": "buffs/deify.png",
     "name": "Deify (Undispellable)",
-    "description": "When attacking, increases Critical Hit Chance by 50%, and when attacked, decreases damage suffered by 50%. When more than one damage reduction effect is granted, only the strongest effect is applied.",
+    "description": "When attacking, increases Critical Hit Chance by 50%, and when attacked, grants 50% damage reduction.",
     "type": "buff",
     "id": "deify",
-    "reviewedOn": ""
+    "reviewedOn": "2025-11-20"
   },
   {
     "iconUrl": "buffs/exploiting_weak_points.png",
@@ -213,7 +213,7 @@
     "description": "Nullifies damage from skills.",
     "type": "buff",
     "id": "skill_nullifier",
-    "reviewedOn": ""
+    "reviewedOn": "2025-11-20"
   },
   {
     "iconUrl": "buffs/explosives.png",
@@ -322,10 +322,10 @@
   {
     "iconUrl": "buffs/increase_hit_chance.png",
     "name": "Increase Hit Chance",
-    "description": "Increase Hit Chance by 50%.",
+    "description": "Increases Hit Chance by 50%.",
     "type": "buff",
     "id": "increase_hit_chance",
-    "reviewedOn": ""
+    "reviewedOn": "2025-11-20"
   },
   {
     "iconUrl": "buffs/indomitable.png",
@@ -581,7 +581,7 @@
     "description": "Cannot receive Combat Readiness increase effects other than that provided by the Speed stat.",
     "type": "debuff",
     "id": "restrict",
-    "reviewedOn": ""
+    "reviewedOn": "2025-11-20"
   },
   {
     "iconUrl": "buffs/decrease_attack.png",
@@ -706,10 +706,10 @@
   {
     "iconUrl": "buffs/frostbite.png",
     "name": "Frostbite",
-    "description": "Cannot be subject to any damage reduction or damage sharing effects. Does not affect damage suffered amount limit effect. Frostbite effect applies to Heroes only.",
+    "description": "Cannot be subject to damage reduction or damage share. Frostbite effect applies to Heroes only.",
     "type": "debuff",
     "id": "frostbite",
-    "reviewedOn": ""
+    "reviewedOn": "2025-11-20"
   },
   {
     "iconUrl": "buffs/unhealable.png",
@@ -810,10 +810,10 @@
   {
     "iconUrl": "buffs/target.png",
     "name": "Target",
-    "description": "Increases damage suffered by 15% and decreases Evasion by 15%.",
+    "description": "Increases damage suffered by 15% and decreases Evasion by 50%.",
     "type": "debuff",
     "id": "target",
-    "reviewedOn": "2025-09-25"
+    "reviewedOn": "2025-11-20"
   },
   {
     "iconUrl": "buffs/pilfer.png",
@@ -926,5 +926,13 @@
     "type": "buff",
     "id": "superhumanization",
     "reviewedOn": "2025-11-08"
+  },
+  {
+    "iconUrl": "buffs/war_god.png",
+    "name": "War God (Unique Effect)",
+    "description": "Increases Defense Penetration of Deliverance: Soul Exchange by 50%. Dispelled after the effect activates.",
+    "type": "buff",
+    "id": "war_god",
+    "reviewedOn": "2025-11-20"
   }
 ]
