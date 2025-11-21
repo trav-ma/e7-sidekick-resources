@@ -339,7 +339,7 @@
         "skill": "Increases Critical Hit Chance by 12%.", 
         "unit": "", 
         "class": "General", 
-        "name": "Ascending Axe", 
+        "name": "Axe of Heavenly Mandate", 
         "iconUrl": "artifacts/icon_ascending_axe.png", 
         "imageUrl": "artifacts/ascending_axe.png", 
         "stars": 3, 
@@ -347,7 +347,7 @@
         "expiredOn": "", 
         "key": "ascending_axe", 
         "releasedOn": "2018-11-07",
-        "reviewedOn": ""
+        "reviewedOn": "2025-11-20"
     }, 
     {
         "skill": "Increases Effectiveness by 50% for 1 turn at the start of battle.", 
@@ -2528,7 +2528,7 @@
         "imageUrl": "artifacts/mature_sunglasses.png", 
         "stars": 5, 
         "type": "Limited", 
-        "expiredOn": "", 
+        "expiredOn": "2025-11-20", 
         "key": "mature_sunglasses", 
         "releasedOn": "2022-07-28",
         "reviewedOn": ""
@@ -3498,5 +3498,33 @@
         "key": "awakened_leaf", 
         "releasedOn": "2025-11-06",
         "reviewedOn": "2025-11-08"
+    }, 
+    {
+        "skill": "Increases Critical Hit Damage by 30.0%. When attacked, grants 20% damage reduction.", 
+        "unit": "Summer Break Charlotte", 
+        "class": "Knight", 
+        "name": "Mature Sunglasses", 
+        "iconUrl": "artifacts/icon_mature_sunglasses.png", 
+        "imageUrl": "artifacts/mature_sunglasses.png", 
+        "stars": 5, 
+        "type": "Limited", 
+        "expiredOn": "", 
+        "key": "mature_sunglasses", 
+        "releasedOn": "2022-07-28",
+        "reviewedOn": "2025-11-20"
+    }, 
+    {
+        "skill": "Increases Evasion by 20%. After an ally uses a basic skill, has a 100% chance to increase Combat Readiness of the caster by 10%. This Artifact's skill effect can only apply to one Hero within a team.", 
+        "unit": "Swift Flagbearer Sigret", 
+        "class": "Thief", 
+        "name": "Glorious Flag", 
+        "iconUrl": "artifacts/icon_glorious_flag.png", 
+        "imageUrl": "artifacts/glorious_flag.png", 
+        "stars": 5, 
+        "type": "Limited", 
+        "expiredOn": "", 
+        "key": "glorious_flag", 
+        "releasedOn": "2025-11-27",
+        "reviewedOn": "2025-11-20"
     }
 ]
